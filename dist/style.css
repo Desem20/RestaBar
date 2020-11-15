@@ -1,0 +1,40 @@
+
+header{
+    background: url(img/BackgroundImageRestaBar.jpg);
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 10000px;
+  
+   
+    opacity: 0.9;
+  }
+  
+  .homeIcon{
+  margin-top:5px;
+  margin-right: 0px;
+  }
+  
+  #SignIn,#Form{
+    margin-top: 10%;
+  }
+  #fileButton{
+    margin: 5px 0px;
+    width: 40%;
+  }
+
+#SeatMap {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .canvas-container {
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .customer-menu{
+    display: none;
+  }
+  

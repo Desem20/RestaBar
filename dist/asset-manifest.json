@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a82b4685.chunk.css",
+    "main.js": "/static/js/main.5a656c8b.chunk.js",
+    "main.js.map": "/static/js/main.5a656c8b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.a5845694.chunk.js": "/static/js/2.a5845694.chunk.js",
+    "static/js/2.a5845694.chunk.js.map": "/static/js/2.a5845694.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ae8c5917acf2a5c3c4aa480d96d0cacb.js": "/precache-manifest.ae8c5917acf2a5c3c4aa480d96d0cacb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a82b4685.chunk.css.map": "/static/css/main.a82b4685.chunk.css.map",
+    "static/media/About.png": "/static/media/About.389a84ca.png",
+    "static/media/customers.png": "/static/media/customers.52fc6bcd.png",
+    "static/media/meetRestaBar.png": "/static/media/meetRestaBar.c44c8251.png",
+    "static/media/restaurateurs.png": "/static/media/restaurateurs.d269baff.png"
+  }
+}
